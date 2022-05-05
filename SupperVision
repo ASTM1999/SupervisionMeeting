@@ -1,1 +1,137 @@
-<mxfile host="app.diagrams.net" modified="2022-05-05T11:35:36.755Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" version="18.0.0" etag="OdzPEpJgAkLrn0EASmxA" type="github"><diagram id="Y-b5IcpzBXkwMl_rhe5f">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-05-05T15:09:11.324Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="iYrIP2-OZlzANj7bnOcx" version="18.0.0" type="github" pages="3">
+  <diagram id="Y-b5IcpzBXkwMl_rhe5f" name="Business">
+    <mxGraphModel dx="946" dy="529" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="L0lQy1e0j-PGUKh3fE8V-1" value="&amp;lt;Business&amp;gt;&lt;br&gt;User" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="130" y="195" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="L0lQy1e0j-PGUKh3fE8V-2" value="&amp;lt;Business&amp;gt;&lt;br&gt;บันทึก Agenda" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="325" y="200" width="115" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="L0lQy1e0j-PGUKh3fE8V-3" value="&amp;lt;Business&amp;gt;&lt;br&gt;Admin" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="130" y="470" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="L0lQy1e0j-PGUKh3fE8V-4" value="&amp;lt;Business&amp;gt;&lt;br&gt;Approve Agenda" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="325" y="420" width="115" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="L0lQy1e0j-PGUKh3fE8V-5" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b style=&quot;font-family: Tahoma; background-color: initial;&quot;&gt;&lt;span style=&quot;&quot; lang=&quot;TH&quot;&gt;ในบทบาทของ&lt;/span&gt;&lt;/b&gt;&lt;span style=&quot;font-family: Tahoma; background-color: initial;&quot; lang=&quot;TH&quot;&gt; &lt;/span&gt;&lt;span style=&quot;font-family: Tahoma; background-color: initial;&quot; lang=&quot;EN-US&quot;&gt;User&lt;/span&gt;&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Tahoma&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;b style=&quot;font-family: Tahoma; background-color: initial;&quot;&gt;&lt;span lang=&quot;TH&quot;&gt;ฉันต้องการ &lt;/span&gt;&lt;/b&gt;&lt;span style=&quot;font-family: Tahoma; background-color: initial;&quot; lang=&quot;TH&quot;&gt;ให้&lt;/span&gt;&lt;span style=&quot;font-family: Tahoma; background-color: initial;&quot; lang=&quot;EN-US&quot;&gt; User &lt;/span&gt;&lt;span style=&quot;font-family: Tahoma; background-color: initial;&quot; lang=&quot;TH&quot;&gt;บันทึกข้อมูล &lt;/span&gt;&lt;span style=&quot;font-family: Tahoma; background-color: initial;&quot; lang=&quot;EN-US&quot;&gt;Agenda&lt;/span&gt;&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Tahoma&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;b style=&quot;font-family: Tahoma; background-color: initial;&quot;&gt;&lt;span lang=&quot;TH&quot;&gt;เพื่อ&lt;/span&gt;&lt;/b&gt;&lt;span style=&quot;font-family: Tahoma; background-color: initial;&quot; lang=&quot;TH&quot;&gt; ส่งข้อมูลให้ &lt;/span&gt;&lt;span style=&quot;font-family: Tahoma; background-color: initial;&quot; lang=&quot;EN-US&quot;&gt;Admin &lt;/span&gt;&lt;span style=&quot;font-family: Tahoma; background-color: initial;&quot; lang=&quot;TH&quot;&gt;หลังจากบันทึกเสร็จ&lt;/span&gt;&lt;/font&gt;" style="shape=note;size=20;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;strokeColor=default;fillColor=default;align=left;" vertex="1" parent="1">
+          <mxGeometry x="500" y="100" width="270" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="L0lQy1e0j-PGUKh3fE8V-6" value="&amp;lt;Business&amp;gt;&lt;br&gt;นัดหมายการประชุม" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="325" y="550" width="115" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="L0lQy1e0j-PGUKh3fE8V-7" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b style=&quot;font-family: Tahoma; background-color: initial;&quot;&gt;&lt;span style=&quot;&quot; lang=&quot;TH&quot;&gt;ในบทบาทของ&lt;/span&gt;&lt;/b&gt;&lt;span style=&quot;font-family: Tahoma; background-color: initial;&quot; lang=&quot;TH&quot;&gt;&amp;nbsp;Admin&lt;/span&gt;&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Tahoma&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;span style=&quot;font-family: Tahoma; background-color: initial;&quot;&gt;&lt;span style=&quot;&quot; lang=&quot;TH&quot;&gt;&lt;b&gt;ฉันต้องการ &lt;/b&gt;Approve Agenda&lt;/span&gt;&lt;/span&gt;&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Tahoma&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;b style=&quot;font-family: Tahoma; background-color: initial;&quot;&gt;&lt;span lang=&quot;TH&quot;&gt;เพื่อ&lt;/span&gt;&lt;/b&gt;&lt;span style=&quot;font-family: Tahoma; background-color: initial;&quot; lang=&quot;TH&quot;&gt;&amp;nbsp;Approve และส่งแจ้งเตือนกลับ&lt;/span&gt;&lt;/font&gt;" style="shape=note;size=20;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;strokeColor=default;fillColor=default;align=left;" vertex="1" parent="1">
+          <mxGeometry x="520" y="360" width="270" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="L0lQy1e0j-PGUKh3fE8V-8" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b style=&quot;font-family: Tahoma; background-color: initial;&quot;&gt;&lt;span style=&quot;&quot; lang=&quot;TH&quot;&gt;ในบทบาทของ&lt;/span&gt;&lt;/b&gt;&lt;span style=&quot;font-family: Tahoma; background-color: initial;&quot; lang=&quot;TH&quot;&gt;&amp;nbsp;Admin&lt;/span&gt;&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Tahoma&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;span style=&quot;font-family: Tahoma; background-color: initial;&quot;&gt;&lt;span style=&quot;&quot; lang=&quot;TH&quot;&gt;&lt;b&gt;ฉันต้องการ&lt;/b&gt;&amp;nbsp;นัดหมายการประชุม&lt;/span&gt;&lt;/span&gt;&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Tahoma&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;b style=&quot;font-family: Tahoma; background-color: initial;&quot;&gt;&lt;span lang=&quot;TH&quot;&gt;เพื่อ&lt;/span&gt;&lt;/b&gt;&lt;span style=&quot;font-family: Tahoma; background-color: initial;&quot; lang=&quot;TH&quot;&gt;&amp;nbsp;กำหนดวันนัดหมายการประชุม&lt;/span&gt;&lt;/font&gt;" style="shape=note;size=20;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;strokeColor=default;fillColor=default;align=left;" vertex="1" parent="1">
+          <mxGeometry x="520" y="540" width="270" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="L0lQy1e0j-PGUKh3fE8V-9" value="" style="endArrow=none;html=1;rounded=0;fontFamily=Tahoma;fontSize=14;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="L0lQy1e0j-PGUKh3fE8V-1" target="L0lQy1e0j-PGUKh3fE8V-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="460" as="sourcePoint" />
+            <mxPoint x="250" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="L0lQy1e0j-PGUKh3fE8V-10" value="" style="endArrow=none;html=1;rounded=0;fontFamily=Tahoma;fontSize=14;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="L0lQy1e0j-PGUKh3fE8V-3" target="L0lQy1e0j-PGUKh3fE8V-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="170" y="510" as="sourcePoint" />
+            <mxPoint x="335" y="510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="L0lQy1e0j-PGUKh3fE8V-11" value="" style="endArrow=none;html=1;rounded=0;fontFamily=Tahoma;fontSize=14;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="L0lQy1e0j-PGUKh3fE8V-3" target="L0lQy1e0j-PGUKh3fE8V-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="170" y="505.41666666666674" as="sourcePoint" />
+            <mxPoint x="335" y="455" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="L0lQy1e0j-PGUKh3fE8V-12" value="" style="endArrow=none;html=1;rounded=0;fontFamily=Tahoma;fontSize=14;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="L0lQy1e0j-PGUKh3fE8V-7" target="L0lQy1e0j-PGUKh3fE8V-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="170" y="505.41666666666674" as="sourcePoint" />
+            <mxPoint x="335" y="455" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="L0lQy1e0j-PGUKh3fE8V-13" value="" style="endArrow=none;html=1;rounded=0;fontFamily=Tahoma;fontSize=14;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.004;exitY=0.8;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="L0lQy1e0j-PGUKh3fE8V-8" target="L0lQy1e0j-PGUKh3fE8V-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="180" y="515.4166666666667" as="sourcePoint" />
+            <mxPoint x="345" y="465" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="L0lQy1e0j-PGUKh3fE8V-14" value="" style="endArrow=none;html=1;rounded=0;fontFamily=Tahoma;fontSize=14;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="L0lQy1e0j-PGUKh3fE8V-5" target="L0lQy1e0j-PGUKh3fE8V-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="170" y="235" as="sourcePoint" />
+            <mxPoint x="335" y="235" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="JeIcgpTMZJ3Uuhw6-HwM" name="System">
+    <mxGraphModel dx="946" dy="529" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="hOjLV0HqElgK4O1saSH8-1" value="User" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="140" y="210" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hOjLV0HqElgK4O1saSH8-2" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="hOjLV0HqElgK4O1saSH8-1" target="hOjLV0HqElgK4O1saSH8-3">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="190" y="250" as="sourcePoint" />
+            <mxPoint x="350" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hOjLV0HqElgK4O1saSH8-3" value="เข้าระบบในฐานะของ&lt;br&gt;User" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="205" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="hOjLV0HqElgK4O1saSH8-4" value="บันทึก Agenda" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="100" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="hOjLV0HqElgK4O1saSH8-7" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;" edge="1" parent="1" source="hOjLV0HqElgK4O1saSH8-4" target="hOjLV0HqElgK4O1saSH8-3">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="340" y="270" as="sourcePoint" />
+            <mxPoint x="500" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KPv2W-QaB6bQdvnPhoxj-1" value="&amp;lt;Business&amp;gt;&lt;br&gt;Admin" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="130" y="425" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KPv2W-QaB6bQdvnPhoxj-2" value="Approve Agenda" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="572.5" y="340" width="115" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="KPv2W-QaB6bQdvnPhoxj-3" value="นัดหมายการกระชุม" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="580" y="500" width="115" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="KPv2W-QaB6bQdvnPhoxj-10" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" edge="1" parent="1" source="KPv2W-QaB6bQdvnPhoxj-1" target="KPv2W-QaB6bQdvnPhoxj-11">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="190" y="460" as="sourcePoint" />
+            <mxPoint x="360" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KPv2W-QaB6bQdvnPhoxj-11" value="เข้าระบบในฐานะของ&lt;br&gt;Admin" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="420" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="KPv2W-QaB6bQdvnPhoxj-15" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;" edge="1" parent="1" source="KPv2W-QaB6bQdvnPhoxj-2" target="KPv2W-QaB6bQdvnPhoxj-11">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="589.1675072407409" y="169.06271846592153" as="sourcePoint" />
+            <mxPoint x="470.63488809005594" y="225.83334886610965" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mvWKjsjNHN4G-frTxlei-1" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;" edge="1" parent="1" source="KPv2W-QaB6bQdvnPhoxj-3" target="KPv2W-QaB6bQdvnPhoxj-11">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="602.2697238918247" y="393.86513805408765" as="sourcePoint" />
+            <mxPoint x="509.4974746830583" y="440.25126265847086" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="B8yta2PBomKn5iesfiBC" name="Page-3">
+    <mxGraphModel dx="946" dy="529" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
